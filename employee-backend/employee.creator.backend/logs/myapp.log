@@ -1,0 +1,6 @@
+12:13:08.378 [restartedMain] DEBUG o.s.w.f.CommonsRequestLoggingFilter - Filter 'logFilter' configured for use
+12:14:23.737 [restartedMain] DEBUG o.s.w.f.CommonsRequestLoggingFilter - Filter 'logFilter' configured for use
+12:14:36.213 [http-nio-8080-exec-2] DEBUG o.s.w.f.CommonsRequestLoggingFilter - Before request [GET /employees]
+12:14:36.238 [http-nio-8080-exec-2] DEBUG o.s.w.f.CommonsRequestLoggingFilter - REQUEST DATA: GET /employees]
+12:14:42.091 [http-nio-8080-exec-3] DEBUG o.s.w.f.CommonsRequestLoggingFilter - Before request [GET /employee]
+12:14:42.252 [http-nio-8080-exec-3] DEBUG o.s.w.f.CommonsRequestLoggingFilter - REQUEST DATA: GET /employee]
